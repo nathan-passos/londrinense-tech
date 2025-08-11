@@ -4,15 +4,19 @@ img{
 }
 
 .interroga{
-    margin-left: 200px;
-    margin-bottom: 300px;
-    
+    margin-left: 10px;
+  margin-bottom: 600px;
+  margin-top: 200px;
 }
 .x{
     margin-left: 1000px;
-   
+   margin-bottom: 800px;
 }
 .tranf{
-    margin-left: 50px;  
-   margin-bottom: 400px;
+margin-bottom: 400px; 
+
+}   
+.qr{
+    margin-bottom: 0px;
 }
+
